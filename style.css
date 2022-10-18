@@ -1,0 +1,13 @@
+h1 {
+    display: none;
+  }
+  @media screen and (max-width:1500 px) {}
+    .Huge {
+      display: block;
+    }
+    body {
+      background-color: rgb(139, 214, 157);
+    }
+   
+    
+     
